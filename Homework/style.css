@@ -1,0 +1,42 @@
+body{
+    background: url(me3.jpg);
+    background-size: cover;
+}
+
+h2 {
+    color: blue;
+}
+hr{
+    border-width: 6px;
+    border-color:  rgb(126, 125, 125);
+   
+}
+#Button1{
+    border-radius: 250px 30px 250px;
+    background:url(insta.jpg) ;
+    background-size: cover;
+    height: 50px;
+    width: 150px;
+    
+    
+}
+#Button2{
+    border-radius: 30px 250px 30px;
+    background:url(youtube.png) ;
+    background-size: cover;
+    height: 50px;
+    width: 150px;
+}
+marquee{
+    background: url(marquee.gif);
+    background-size: 1000px 150px;
+    
+    
+}
+h2{
+    background-color: rgb(109, 109, 109);
+    width: 250px;
+    color: white;
+    border-radius: 10px 20px;
+    text-align: center;
+}
